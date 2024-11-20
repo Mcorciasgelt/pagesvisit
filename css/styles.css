@@ -1,0 +1,39 @@
+button {
+    background-color: dodgerblue;
+    width: 150px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: solid;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#contadorVisitas  {
+    color: red;
+    text-decoration: solid;
+
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    border: 1px dashed;
+    width: 300px;
+    padding: 10px;
+
+    justify-content: center;
+}
+
+.content {
+    padding-bottom: 15px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
